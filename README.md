@@ -19,7 +19,7 @@
 **MegaOllama** is a powerful interactive terminal tool that turns the management of local AI models into a smooth and intuitive experience. Instead of memorising dozens of `ollama pull` commands, MegaOllama provides a rich, colour-coded menu to **browse**, **filter**, **install** and **remove** any of the 300+ models in its built-in catalogue — all without leaving your terminal.
 
 Key highlights:
-- 📦 **300+ curated models** with size, RAM requirements and descriptions
+- 📦 **3,000+ curated models** with size, RAM requirements and descriptions
 - 🎨 **Colour-coded TUI** — no external dependencies beyond Ollama itself
 - 🔒 **Specialised sections** for Cybersecurity and Programming models
 - 💾 **RAM-aware recommendations** — only shows models your machine can actually run
@@ -34,7 +34,7 @@ Key highlights:
 | 📥 Install recommended models | One-click install of the top 10 curated models |
 | 🔍 Search by name | Fuzzy search through the full catalogue |
 | 📂 Filter by category | Browse General, Programming, Instructive, and more |
-| 📋 Full catalogue list | Paginated view of all 300+ models |
+| 📋 Full catalogue list | Paginated view of all 3,000+ models |
 | 💾 RAM-based filter | Auto-detects available RAM and shows only compatible models |
 | 🗑️ Uninstall models | Safely remove installed models with confirmation prompt |
 | 📊 View installed models | Live list from `ollama list` |
