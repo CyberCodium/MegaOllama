@@ -1,0 +1,24 @@
+# OS / editor artefacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+/tmp/
+/temp/
+
+# Shell test output
+*.out
+*.err
+
+# Backup files
+*.bak
+*.orig
